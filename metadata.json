@@ -1,0 +1,6 @@
+{
+  "name": "NOVA — Voice-Controlled Personal AI Operating System",
+  "description": "An intelligent, context-aware multimodal personal AI operating system with deterministic 15-state coordination, Gemini cognitive reasoning, accessibility execution, and human-in-the-loop approval.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
